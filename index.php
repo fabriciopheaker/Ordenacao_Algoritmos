@@ -125,6 +125,14 @@ function tempoExecucao(callable $function, array $array): array
 }
 
 
+function sortArray(array $array)
+{
+  sort($array);
+  return $array;
+}
+
+
+
 $ArraySort = createRandom(1000000);
 
 $ordenado = tempoExecucao('quickSort', $ArraySort);
