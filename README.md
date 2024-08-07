@@ -29,13 +29,13 @@ Para comparar o desempenho dos algoritmos, criei um método de ordenação adici
 # Resultados dos Algoritmos
 
 ### Testes com 100.000 registros:
-bubbleSort: 7 minutos e 59,22 segundos
-insertionSort: 2 minutos e 30,67 segundos
-selectionSort: 2 minutos e 40,59 segundos
-quickSort: 0,14 ms
-sortArray (usando sort): 0,026 ms
+##### bubbleSort: 7 minutos e 59,22 segundos
+##### insertionSort: 2 minutos e 30,67 segundos
+##### selectionSort: 2 minutos e 40,59 segundos
+##### quickSort: 0,14 ms
+##### sortArray (usando sort): 0,026 ms
  
 ### Testes com 1.000.000 registros:
-quickSort: 1,88 segundos
-sortArray (usando sort): 0,323 ms
+##### quickSort: 1,88 segundos
+##### sortArray (usando sort): 0,323 ms
 
